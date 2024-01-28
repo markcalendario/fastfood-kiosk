@@ -1,0 +1,92 @@
+﻿[
+  {
+    "Id": "CJ1",
+    "Name": "6 - pc. Chickenjoy Bucket w/ Jolly Spaghetti Family Pan",
+    "Price": 679.00,
+    "Image": "/Images/ChickenJoys/CJ1.png"
+  },
+  {
+    "Id": "CJ2",
+    "Name": "8 - pc. Chickenjoy Bucket w/ Jolly Spaghetti Family Pan",
+    "Price": 774.00,
+    "Image": "/Images/ChickenJoys/CJ2.png"
+  },
+  {
+    "Id": "CJ3",
+    "Name": "6 - pc. Chickenjoy Solo",
+    "Price": 449.00,
+    "Image": "/Images/ChickenJoys/CJ3.png"
+  },
+  {
+    "Id": "CJ4",
+    "Name": "8 - pc. Chickenjoy Solo",
+    "Price": 549.00,
+    "Image": "/Images/ChickenJoys/CJ4.png"
+  },
+  {
+    "Id": "CJ5",
+    "Name": "6 - pc. Chickenjoy with Palabok Family Pan",
+    "Price": 948.00,
+    "Image": "/Images/ChickenJoys/CJ5.png"
+  },
+  {
+    "Id": "CJ6",
+    "Name": "8 - pc. Chickenjoy with Palabok Family Pan",
+    "Price": 1054.00,
+    "Image": "/Images/ChickenJoys/CJ6.png"
+  },
+  {
+    "Id": "CJ7",
+    "Name": "4 - pc. Chickenjoy Family Box Solo",
+    "Price": 326.00,
+    "Image": "/Images/ChickenJoys/CJ7.png"
+  },
+  {
+    "Id": "CJ8",
+    "Name": "Chickenjoy Bucket Family Meals",
+    "Price": 758.00,
+    "Image": "/Images/ChickenJoys/CJ8.png"
+  },
+  {
+    "Id": "CJ9",
+    "Name": "Chickenjoy w/ Burger Steak & Half Jolly Spaghetti Meal",
+    "Price": 212.00,
+    "Image": "/Images/ChickenJoys/CJ9.png"
+  },
+  {
+    "Id": "CJ10",
+    "Name": "1 - pc. Chickenjoy w/ Half Jolly Spaghetti & Shanghai Super Meal",
+    "Price": 218.00,
+    "Image": "/Images/ChickenJoys/CJ10.png"
+  },
+  {
+    "Id": "CJ11",
+    "Name": "1 - pc. Chickenjoy",
+    "Price": 82.00,
+    "Image": "/Images/ChickenJoys/CJ11.png"
+  },
+  {
+    "Id": "CJ12",
+    "Name": "1 - pc. Chickenjoy w/ Jolly Spaghetti",
+    "Price": 132.00,
+    "Image": "/Images/ChickenJoys/CJ12.png"
+  },
+  {
+    "Id": "CJ13",
+    "Name": "1 - pc. Chickenjoy w/ Fries",
+    "Price": 128.00,
+    "Image": "/Images/ChickenJoys/CJ13.png"
+  },
+  {
+    "Id": "CJ14",
+    "Name": "1 – pc. Chickenjoy w/ Double Rice",
+    "Price": 148.00,
+    "Image": "/Images/ChickenJoys/CJ14.png"
+  },
+  {
+    "Id": "CJ15",
+    "Name": "2 - pc. Chickenjoy",
+    "Price": 163.00,
+    "Image": "/Images/ChickenJoys/CJ15.png"
+  }
+]

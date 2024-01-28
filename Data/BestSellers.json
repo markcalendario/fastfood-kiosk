@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "BS1",
+    "Name": "6 - pc. Chickenjoy with Palabok Family Pan",
+    "Price": 948.00,
+    "Image": "/Images/BestSellers/BS1.png"
+  },
+  {
+    "Id": "BS2",
+    "Name": "8 - pc. Chickenjoy Solo",
+    "Price": 549.00,
+    "Image": "/Images/BestSellers/BS2.png"
+  },
+  {
+    "Id": "BS3",
+    "Name": "4 - pc. Chickenjoy Family Box Solo",
+    "Price": 326.00,
+    "Image": "/Images/BestSellers/BS3.png"
+  },
+  {
+    "Id": "BS4",
+    "Name": "6 - pc. Chickenjoy Solo",
+    "Price": 449.00,
+    "Image": "/Images/BestSellers/BS4.png"
+  },
+  {
+    "Id": "BS5",
+    "Name": "8 - pc. Chickenjoy with Palabok Family Pan",
+    "Price": 1054.00,
+    "Image": "/Images/BestSellers/BS5.png"
+  },
+  {
+    "Id": "BS6",
+    "Name": "Jolly Spaghetti & Palabok Family Pan",
+    "Price": 237.00,
+    "Image": "/Images/BestSellers/BS6.png"
+  },
+  {
+    "Id": "BS7",
+    "Name": "Burger Bundle",
+    "Price": 382.00,
+    "Image": "/Images/BestSellers/BS7.png"
+  },
+  {
+    "Id": "BS8",
+    "Name": "6-pc. Burger Steak Family Pan",
+    "Price": 355.00,
+    "Image": "/Images/BestSellers/BS8.png"
+  },
+  {
+    "Id": "BS9",
+    "Name": "8-pc. Burger Steak Family Pan",
+    "Price": 470.00,
+    "Image": "/Images/BestSellers/BS9.png"
+  },
+  {
+    "Id": "BS10",
+    "Name": "6-pc. Burger Steak w/ Jolly Spaghetti Family Pan",
+    "Price": 570.00,
+    "Image": "/Images/BestSellers/BS10.png"
+  }
+]

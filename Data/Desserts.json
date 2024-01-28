@@ -1,0 +1,68 @@
+[
+  {
+    "Id": "DS1",
+    "Name": "Choco Banana 6 Pies To-Go",
+    "Price": 286.00,
+    "Image": "/Images/Desserts/DS1.png"
+  },
+  {
+    "Id": "DS2",
+    "Name": "Choco Banana 3 Pies To-Go",
+    "Price": 142.00,
+    "Image": "/Images/Desserts/DS2.png"
+  },
+  {
+    "Id": "DS3",
+    "Name": "Choco Banana Pie",
+    "Price": 50.00,
+    "Image": "/Images/Desserts/DS3.png"
+  },
+  {
+    "Id": "DS4",
+    "Name": "Cookie Caramel Sundae",
+    "Price": 63.00,
+    "Image": "/Images/Desserts/DS4.png"
+  },
+  {
+    "Id": "DS5",
+    "Name": "Mango Graham Sundae",
+    "Price": 63.00,
+    "Image": "/Images/Desserts/DS5.png"
+  },
+  {
+    "Id": "DS6",
+    "Name": "Sweer 6 Pies To-Go",
+    "Price": 265.00,
+    "Image": "/Images/Desserts/DS6.png"
+  },
+  {
+    "Id": "DS7",
+    "Name": "3 Pies To-Go",
+    "Price": 140.00,
+    "Image": "/Images/Desserts/DS7.png"
+  },
+  {
+    "Id": "DS8",
+    "Name": "Large Peach Mango Pie 3 Pies To-Go",
+    "Price": 181.00,
+    "Image": "/Images/Desserts/DS8.png"
+  },
+  {
+    "Id": "DS9",
+    "Name": "Large Peach Mango Pie",
+    "Price": 64.00,
+    "Image": "/Images/Desserts/DS9.png"
+  },
+  {
+    "Id": "DS10",
+    "Name": "Peach Mango Pie",
+    "Price": 48.00,
+    "Image": "/Images/Desserts/DS10.png"
+  },
+  {
+    "Id": "DS11",
+    "Name": "Chocolate Sundae Twirl",
+    "Price": 50.00,
+    "Image": "/Images/Desserts/DS11.png"
+  }
+]

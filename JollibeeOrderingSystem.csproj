@@ -1,0 +1,278 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\BestSellers.json" />
+    <None Remove="Data\Beverages.json" />
+    <None Remove="Data\ChickenJoys.json" />
+    <None Remove="Data\Desserts.json" />
+    <None Remove="Data\FamilyMeals.json" />
+    <None Remove="Data\FriesAndSides.json" />
+    <None Remove="Data\JollySpaghetti.json" />
+    <None Remove="Data\YumBurgers.json" />
+    <None Remove="Images\BestSellers\BS1.png" />
+    <None Remove="Images\BestSellers\BS10.png" />
+    <None Remove="Images\BestSellers\BS2.png" />
+    <None Remove="Images\BestSellers\BS3.png" />
+    <None Remove="Images\BestSellers\BS4.png" />
+    <None Remove="Images\BestSellers\BS5.png" />
+    <None Remove="Images\BestSellers\BS6.png" />
+    <None Remove="Images\BestSellers\BS7.png" />
+    <None Remove="Images\BestSellers\BS8.png" />
+    <None Remove="Images\BestSellers\BS9.png" />
+    <None Remove="Images\Beverages\B1.png" />
+    <None Remove="Images\Beverages\B10.png" />
+    <None Remove="Images\Beverages\B11.png" />
+    <None Remove="Images\Beverages\B12.png" />
+    <None Remove="Images\Beverages\B2.png" />
+    <None Remove="Images\Beverages\B3.png" />
+    <None Remove="Images\Beverages\B4.png" />
+    <None Remove="Images\Beverages\B5.png" />
+    <None Remove="Images\Beverages\B6.png" />
+    <None Remove="Images\Beverages\B7.png" />
+    <None Remove="Images\Beverages\B8.png" />
+    <None Remove="Images\Beverages\B9.png" />
+    <None Remove="Images\ChickenJoys\CJ1.png" />
+    <None Remove="Images\ChickenJoys\CJ10.png" />
+    <None Remove="Images\ChickenJoys\CJ11.png" />
+    <None Remove="Images\ChickenJoys\CJ12.png" />
+    <None Remove="Images\ChickenJoys\CJ13.png" />
+    <None Remove="Images\ChickenJoys\CJ14.png" />
+    <None Remove="Images\ChickenJoys\CJ15.png" />
+    <None Remove="Images\ChickenJoys\CJ2.png" />
+    <None Remove="Images\ChickenJoys\CJ3.png" />
+    <None Remove="Images\ChickenJoys\CJ4.png" />
+    <None Remove="Images\ChickenJoys\CJ5.png" />
+    <None Remove="Images\ChickenJoys\CJ6.png" />
+    <None Remove="Images\ChickenJoys\CJ7.png" />
+    <None Remove="Images\ChickenJoys\CJ8.png" />
+    <None Remove="Images\ChickenJoys\CJ9.png" />
+    <None Remove="Images\Desserts\DS1.png" />
+    <None Remove="Images\Desserts\DS10.png" />
+    <None Remove="Images\Desserts\DS11.png" />
+    <None Remove="Images\Desserts\DS2.png" />
+    <None Remove="Images\Desserts\DS3.png" />
+    <None Remove="Images\Desserts\DS4.png" />
+    <None Remove="Images\Desserts\DS5.png" />
+    <None Remove="Images\Desserts\DS6.png" />
+    <None Remove="Images\Desserts\DS7.png" />
+    <None Remove="Images\Desserts\DS8.png" />
+    <None Remove="Images\Desserts\DS9.png" />
+    <None Remove="Images\FamilyMeals\FM1.png" />
+    <None Remove="Images\FamilyMeals\FM10.png" />
+    <None Remove="Images\FamilyMeals\FM11.png" />
+    <None Remove="Images\FamilyMeals\FM12.png" />
+    <None Remove="Images\FamilyMeals\FM13.png" />
+    <None Remove="Images\FamilyMeals\FM14.png" />
+    <None Remove="Images\FamilyMeals\FM15.png" />
+    <None Remove="Images\FamilyMeals\FM16.png" />
+    <None Remove="Images\FamilyMeals\FM17.png" />
+    <None Remove="Images\FamilyMeals\FM18.png" />
+    <None Remove="Images\FamilyMeals\FM19.png" />
+    <None Remove="Images\FamilyMeals\FM2.png" />
+    <None Remove="Images\FamilyMeals\FM20.png" />
+    <None Remove="Images\FamilyMeals\FM21.png" />
+    <None Remove="Images\FamilyMeals\FM3.png" />
+    <None Remove="Images\FamilyMeals\FM4.png" />
+    <None Remove="Images\FamilyMeals\FM5.png" />
+    <None Remove="Images\FamilyMeals\FM6.png" />
+    <None Remove="Images\FamilyMeals\FM7.png" />
+    <None Remove="Images\FamilyMeals\FM8.png" />
+    <None Remove="Images\FamilyMeals\FM9.png" />
+    <None Remove="Images\FriesAndSides\FS1.png" />
+    <None Remove="Images\FriesAndSides\FS2.png" />
+    <None Remove="Images\FriesAndSides\FS3.png" />
+    <None Remove="Images\FriesAndSides\FS4.png" />
+    <None Remove="Images\FriesAndSides\FS5.png" />
+    <None Remove="Images\JollySpaghetti\JS1.png" />
+    <None Remove="Images\JollySpaghetti\JS10.png" />
+    <None Remove="Images\JollySpaghetti\JS11.png" />
+    <None Remove="Images\JollySpaghetti\JS12.png" />
+    <None Remove="Images\JollySpaghetti\JS13.png" />
+    <None Remove="Images\JollySpaghetti\JS2.png" />
+    <None Remove="Images\JollySpaghetti\JS3.png" />
+    <None Remove="Images\JollySpaghetti\JS4.png" />
+    <None Remove="Images\JollySpaghetti\JS5.png" />
+    <None Remove="Images\JollySpaghetti\JS6.png" />
+    <None Remove="Images\JollySpaghetti\JS7.png" />
+    <None Remove="Images\JollySpaghetti\JS8.png" />
+    <None Remove="Images\JollySpaghetti\JS9.png" />
+    <None Remove="Images\logo.png" />
+    <None Remove="Images\MenuCategories\best-seller.png" />
+    <None Remove="Images\MenuCategories\best-sellers.png" />
+    <None Remove="Images\MenuCategories\beverages.png" />
+    <None Remove="Images\MenuCategories\break-fast.png" />
+    <None Remove="Images\MenuCategories\burgers.png" />
+    <None Remove="Images\MenuCategories\chicken-joy.png" />
+    <None Remove="Images\MenuCategories\desserts.png" />
+    <None Remove="Images\MenuCategories\family-meals.png" />
+    <None Remove="Images\MenuCategories\fries-and-sides.png" />
+    <None Remove="Images\MenuCategories\jolly-spaghetti.png" />
+    <None Remove="Images\YumBurgers\YB1.png" />
+    <None Remove="Images\YumBurgers\YB10.png" />
+    <None Remove="Images\YumBurgers\YB11.png" />
+    <None Remove="Images\YumBurgers\YB12.png" />
+    <None Remove="Images\YumBurgers\YB13.png" />
+    <None Remove="Images\YumBurgers\YB14.png" />
+    <None Remove="Images\YumBurgers\YB2.png" />
+    <None Remove="Images\YumBurgers\YB3.png" />
+    <None Remove="Images\YumBurgers\YB4.png" />
+    <None Remove="Images\YumBurgers\YB5.png" />
+    <None Remove="Images\YumBurgers\YB6.png" />
+    <None Remove="Images\YumBurgers\YB7.png" />
+    <None Remove="Images\YumBurgers\YB8.png" />
+    <None Remove="Images\YumBurgers\YB9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Data\Beverages.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\ChickenJoys.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Data\BestSellers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Desserts.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\FamilyMeals.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\FriesAndSides.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\JollySpaghetti.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\YumBurgers.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\BestSellers\BS1.png" />
+    <Resource Include="Images\BestSellers\BS10.png" />
+    <Resource Include="Images\BestSellers\BS2.png" />
+    <Resource Include="Images\BestSellers\BS3.png" />
+    <Resource Include="Images\BestSellers\BS4.png" />
+    <Resource Include="Images\BestSellers\BS5.png" />
+    <Resource Include="Images\BestSellers\BS6.png" />
+    <Resource Include="Images\BestSellers\BS7.png" />
+    <Resource Include="Images\BestSellers\BS8.png" />
+    <Resource Include="Images\BestSellers\BS9.png" />
+    <Resource Include="Images\Beverages\B1.png" />
+    <Resource Include="Images\Beverages\B10.png" />
+    <Resource Include="Images\Beverages\B11.png" />
+    <Resource Include="Images\Beverages\B12.png" />
+    <Resource Include="Images\Beverages\B2.png" />
+    <Resource Include="Images\Beverages\B3.png" />
+    <Resource Include="Images\Beverages\B4.png" />
+    <Resource Include="Images\Beverages\B5.png" />
+    <Resource Include="Images\Beverages\B6.png" />
+    <Resource Include="Images\Beverages\B7.png" />
+    <Resource Include="Images\Beverages\B8.png" />
+    <Resource Include="Images\Beverages\B9.png" />
+    <Resource Include="Images\ChickenJoys\CJ1.png" />
+    <Resource Include="Images\ChickenJoys\CJ10.png" />
+    <Resource Include="Images\ChickenJoys\CJ11.png" />
+    <Resource Include="Images\ChickenJoys\CJ12.png" />
+    <Resource Include="Images\ChickenJoys\CJ13.png" />
+    <Resource Include="Images\ChickenJoys\CJ14.png" />
+    <Resource Include="Images\ChickenJoys\CJ15.png" />
+    <Resource Include="Images\ChickenJoys\CJ2.png" />
+    <Resource Include="Images\ChickenJoys\CJ3.png" />
+    <Resource Include="Images\ChickenJoys\CJ4.png" />
+    <Resource Include="Images\ChickenJoys\CJ5.png" />
+    <Resource Include="Images\ChickenJoys\CJ6.png" />
+    <Resource Include="Images\ChickenJoys\CJ7.png" />
+    <Resource Include="Images\ChickenJoys\CJ8.png" />
+    <Resource Include="Images\ChickenJoys\CJ9.png" />
+    <Resource Include="Images\Desserts\DS1.png" />
+    <Resource Include="Images\Desserts\DS10.png" />
+    <Resource Include="Images\Desserts\DS11.png" />
+    <Resource Include="Images\Desserts\DS2.png" />
+    <Resource Include="Images\Desserts\DS3.png" />
+    <Resource Include="Images\Desserts\DS4.png" />
+    <Resource Include="Images\Desserts\DS5.png" />
+    <Resource Include="Images\Desserts\DS6.png" />
+    <Resource Include="Images\Desserts\DS7.png" />
+    <Resource Include="Images\Desserts\DS8.png" />
+    <Resource Include="Images\Desserts\DS9.png" />
+    <Resource Include="Images\FamilyMeals\FM1.png" />
+    <Resource Include="Images\FamilyMeals\FM10.png" />
+    <Resource Include="Images\FamilyMeals\FM11.png" />
+    <Resource Include="Images\FamilyMeals\FM12.png" />
+    <Resource Include="Images\FamilyMeals\FM13.png" />
+    <Resource Include="Images\FamilyMeals\FM14.png" />
+    <Resource Include="Images\FamilyMeals\FM15.png" />
+    <Resource Include="Images\FamilyMeals\FM16.png" />
+    <Resource Include="Images\FamilyMeals\FM17.png" />
+    <Resource Include="Images\FamilyMeals\FM18.png" />
+    <Resource Include="Images\FamilyMeals\FM19.png" />
+    <Resource Include="Images\FamilyMeals\FM2.png" />
+    <Resource Include="Images\FamilyMeals\FM20.png" />
+    <Resource Include="Images\FamilyMeals\FM21.png" />
+    <Resource Include="Images\FamilyMeals\FM3.png" />
+    <Resource Include="Images\FamilyMeals\FM4.png" />
+    <Resource Include="Images\FamilyMeals\FM5.png" />
+    <Resource Include="Images\FamilyMeals\FM6.png" />
+    <Resource Include="Images\FamilyMeals\FM7.png" />
+    <Resource Include="Images\FamilyMeals\FM8.png" />
+    <Resource Include="Images\FamilyMeals\FM9.png" />
+    <Resource Include="Images\FriesAndSides\FS1.png" />
+    <Resource Include="Images\FriesAndSides\FS2.png" />
+    <Resource Include="Images\FriesAndSides\FS3.png" />
+    <Resource Include="Images\FriesAndSides\FS4.png" />
+    <Resource Include="Images\FriesAndSides\FS5.png" />
+    <Resource Include="Images\JollySpaghetti\JS1.png" />
+    <Resource Include="Images\JollySpaghetti\JS10.png" />
+    <Resource Include="Images\JollySpaghetti\JS11.png" />
+    <Resource Include="Images\JollySpaghetti\JS12.png" />
+    <Resource Include="Images\JollySpaghetti\JS13.png" />
+    <Resource Include="Images\JollySpaghetti\JS2.png" />
+    <Resource Include="Images\JollySpaghetti\JS3.png" />
+    <Resource Include="Images\JollySpaghetti\JS4.png" />
+    <Resource Include="Images\JollySpaghetti\JS5.png" />
+    <Resource Include="Images\JollySpaghetti\JS6.png" />
+    <Resource Include="Images\JollySpaghetti\JS7.png" />
+    <Resource Include="Images\JollySpaghetti\JS8.png" />
+    <Resource Include="Images\JollySpaghetti\JS9.png" />
+    <Resource Include="Images\logo.png" />
+    <Resource Include="Images\MenuCategories\beverages.png" />
+    <Resource Include="Images\MenuCategories\break-fast.png" />
+    <Resource Include="Images\MenuCategories\burgers.png" />
+    <Resource Include="Images\MenuCategories\chicken-joy.png" />
+    <Resource Include="Images\MenuCategories\desserts.png" />
+    <Resource Include="Images\MenuCategories\family-meals.png" />
+    <Resource Include="Images\MenuCategories\fries-and-sides.png" />
+    <Resource Include="Images\MenuCategories\jolly-spaghetti.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\MenuCategories\best-sellers.png" />
+    <Resource Include="Images\YumBurgers\YB1.png" />
+    <Resource Include="Images\YumBurgers\YB10.png" />
+    <Resource Include="Images\YumBurgers\YB11.png" />
+    <Resource Include="Images\YumBurgers\YB12.png" />
+    <Resource Include="Images\YumBurgers\YB13.png" />
+    <Resource Include="Images\YumBurgers\YB14.png" />
+    <Resource Include="Images\YumBurgers\YB2.png" />
+    <Resource Include="Images\YumBurgers\YB3.png" />
+    <Resource Include="Images\YumBurgers\YB4.png" />
+    <Resource Include="Images\YumBurgers\YB5.png" />
+    <Resource Include="Images\YumBurgers\YB6.png" />
+    <Resource Include="Images\YumBurgers\YB7.png" />
+    <Resource Include="Images\YumBurgers\YB8.png" />
+    <Resource Include="Images\YumBurgers\YB9.png" />
+  </ItemGroup>
+
+</Project>

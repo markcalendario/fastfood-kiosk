@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "FS1",
+    "Name": "Jolly Crispy Fries Bucket",
+    "Price": 162.00,
+    "Image": "/Images/FiresAndSides/FS1.png"
+  },
+  {
+    "Id": "FS2",
+    "Name": "Jolly Crispy Fries",
+    "Price": 50.00,
+    "Image": "/Images/FiresAndSides/FS2.png"
+  },
+  {
+    "Id": "FS3",
+    "Name": "Creamy Macaroni Soup",
+    "Price": 77.00,
+    "Image": "/Images/FiresAndSides/FS3.png"
+  },
+  {
+    "Id": "FS4",
+    "Name": "Extra Rice",
+    "Price": 32.00,
+    "Image": "/Images/FiresAndSides/FS4.png"
+  },
+  {
+    "Id": "FS5",
+    "Name": "Extra Chickenjoy Gravy",
+    "Price": 11.00,
+    "Image": "/Images/FiresAndSides/FS5.png"
+  }
+]

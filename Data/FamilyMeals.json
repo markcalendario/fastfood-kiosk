@@ -1,0 +1,128 @@
+[
+  {
+    "Id": "FM1",
+    "Name": "6 - pc. Chickenjoy Solo",
+    "Price": 449.00,
+    "Image": "/Images/FamilyMeals/FM1.png"
+  },
+  {
+    "Id": "FM2",
+    "Name": "8 - pc. Chickenjoy Solo",
+    "Price": 549.00,
+    "Image": "/Images/FamilyMeals/FM2.png"
+  },
+  {
+    "Id": "FM3",
+    "Name": "4 - pc. Chickenjoy Family Box Solo",
+    "Price": 326.00,
+    "Image": "/Images/FamilyMeals/FM3.png"
+  },
+  {
+    "Id": "FM4",
+    "Name": "6 - pc. Chickenjoy with Palabok Family Pan",
+    "Price": 948.00,
+    "Image": "/Images/FamilyMeals/FM4.png"
+  },
+  {
+    "Id": "FM5",
+    "Name": "8 - pc. Chickenjoy with Palabok Family Pan",
+    "Price": 1054.00,
+    "Image": "/Images/FamilyMeals/FM5.png"
+  },
+  {
+    "Id": "FM6",
+    "Name": "6 - pc. Chickenjoy Bucket w/ Jolly Spaghetti Family Pan",
+    "Price": 679.00,
+    "Image": "/Images/FamilyMeals/FM6.png"
+  },
+  {
+    "Id": "FM7",
+    "Name": "8 - pc. Chickenjoy Bucket w/ Jolly Spaghetti Family Pan",
+    "Price": 774.00,
+    "Image": "/Images/FamilyMeals/FM7.png"
+  },
+  {
+    "Id": "FM8",
+    "Name": "Chickenjoy Bucket Family Meals",
+    "Price": 758.00,
+    "Image": "/Images/FamilyMeals/FM8.png"
+  },
+  {
+    "Id": "FM9",
+    "Name": "Jolly Spaghetti and Palabok Family Pan",
+    "Price": 237.00,
+    "Image": "/Images/FamilyMeals/FM9.png"
+  },
+  {
+    "Id": "FM10",
+    "Name": "Burger Bundle",
+    "Price": 382.00,
+    "Image": "/Images/FamilyMeals/FM10.png"
+  },
+  {
+    "Id": "FM11",
+    "Name": "Yumburger Family Savers",
+    "Price": 276.00,
+    "Image": "/Images/FamilyMeals/FM11.png"
+  },
+  {
+    "Id": "FM12",
+    "Name": "Burger Steak Family Savers",
+    "Price": 329.00,
+    "Image": "/Images/FamilyMeals/FM12.png"
+  },
+  {
+    "Id": "FM13",
+    "Name": "6-pc. Burger Steak Family Pan",
+    "Price": 355.00,
+    "Image": "/Images/FamilyMeals/FM13.png"
+  },
+  {
+    "Id": "FM14",
+    "Name": "8-pc. Burger Steak Family Pan",
+    "Price": 470.00,
+    "Image": "/Images/FamilyMeals/FM14.png"
+  },
+  {
+    "Id": "FM15",
+    "Name": "6-pc. Burger Steak w/ Jolly Spaghetti Family Pan",
+    "Price": 570.00,
+    "Image": "/Images/FamilyMeals/FM13.png"
+  },
+  {
+    "Id": "FM16",
+    "Name": "8-pc. Burger Steak w/ Jolly Spaghetti Family Pan",
+    "Price": 650.00,
+    "Image": "/Images/FamilyMeals/FM14.png"
+  },
+  {
+    "Id": "FM17",
+    "Name": "6-pc. Burger Steak w/ Palabok Family Pan",
+    "Price": 827.00,
+    "Image": "/Images/FamilyMeals/FM13.png"
+  },
+  {
+    "Id": "FM18",
+    "Name": "8-pc. Burger Steak w/ Jolly Spaghetti Family Pan",
+    "Price": 923.00,
+    "Image": "/Images/FamilyMeals/FM14.png"
+  },
+  {
+    "Id": "FM19",
+    "Name": "Jolly Crispy Fries Bucket",
+    "Price": 162.00,
+    "Image": "/Images/FamilyMeals/FM13.png"
+  },
+  {
+    "Id": "FM20",
+    "Name": "Sweet 6 Pies To-Go",
+    "Price": 265.00,
+    "Image": "/Images/FamilyMeals/FM14.png"
+  },
+  {
+    "Id": "FM21",
+    "Name": "Joy At Home Birthday Set",
+    "Price": 80.00,
+    "Image": "/Images/FamilyMeals/FM13.png"
+  }
+]

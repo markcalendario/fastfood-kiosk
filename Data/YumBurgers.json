@@ -1,0 +1,86 @@
+[
+  {
+    "Id": "YB1",
+    "Name": "Burger Bundle",
+    "Price": 382.00,
+    "Image": "/Images/Yumburgers/YB1.png"
+  },
+  {
+    "Id": "YB2",
+    "Name": "Yuburger Family Savers",
+    "Price": 276.00,
+    "Image": "/Images/Yumburgers/YB2.png"
+  },
+  {
+    "Id": "YB3",
+    "Name": "Yumburgers",
+    "Price": 40.00,
+    "Image": "/Images/Yumburgers/YB3.png"
+  },
+  {
+    "Id": "YB4",
+    "Name": "Cheesy Yumburgers",
+    "Price": 69.00,
+    "Image": "/Images/Yumburgers/YB4.png"
+  },
+  {
+    "Id": "YB5",
+    "Name": "Bacon Cheesy Yumburgers",
+    "Price": 96.00,
+    "Image": "/Images/Yumburgers/YB5.png"
+  },
+  {
+    "Id": "YB6",
+    "Name": "Amazing Aloha Champ Jr.",
+    "Price": 125.00,
+    "Image": "/Images/Yumburgers/YB6.png"
+  },
+  {
+    "Id": "YB7",
+    "Name": "Champ Jr.",
+    "Price": 105.00,
+    "Image": "/Images/Yumburgers/YB7.png"
+  },
+  {
+    "Id": "YB8",
+    "Name": "Amazing Aloha Champ Jr. w/o Bacon",
+    "Price": 122.00,
+    "Image": "/Images/Yumburgers/YB8.png"
+  },
+  {
+    "Id": "YB9",
+    "Name": "Double Amazing Aloha Champ Jr.",
+    "Price": 170.00,
+    "Image": "/Images/Yumburgers/YB9.png"
+  },
+  {
+    "Id": "YB10",
+    "Name": "Double Amazing Aloha Chamo Jr. w/o Bacon",
+    "Price": 159.00,
+    "Image": "/Images/Yumburgers/YB10.png"
+  },
+  {
+    "Id": "YB11",
+    "Name": "Champ",
+    "Price": 179.00,
+    "Image": "/Images/Yumburgers/YB11.png"
+  },
+  {
+    "Id": "YB12",
+    "Name": "Aloha Champ",
+    "Price": 246.00,
+    "Image": "/Images/Yumburgers/YB12.png"
+  },
+  {
+    "Id": "YB13",
+    "Name": "Jolly Spaghetti w/ Yumburgers",
+    "Price": 122.00,
+    "Image": "/Images/Yumburgers/YB13.png"
+  },
+  {
+    "Id": "YB14",
+    "Name": "Yumburgers, Half Jolly Spaghetti & Reg. Fries Super Meal",
+    "Price": 137.00,
+    "Image": "/Images/Yumburgers/YB14.png"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "Id": "JS1",
+    "Name": "Jolly Spaghetti Family Pan",
+    "Price": 237.00,
+    "Image": "/Images/JollySpaghetti/JS1.png"
+  },
+  {
+    "Id": "JS2",
+    "Name": "6 - pc. Chickenjoy Bucket w/ Jolly Spaghetti Family Pan",
+    "Price": 679.00,
+    "Image": "/Images/JollySpaghetti/JS2.png"
+  },
+  {
+    "Id": "JS3",
+    "Name": "8 - pc. Chickenjoy Bucket w/ Jolly Spaghetti Family Pan",
+    "Price": 774.00,
+    "Image": "/Images/JollySpaghetti/JS3.png"
+  },
+  {
+    "Id": "JS4",
+    "Name": "Chickenjoy Bucket w/ Rice, Jolly Spaghetti & Drinks",
+    "Price": 758.00,
+    "Image": "/Images/JollySpaghetti/JS4.png"
+  },
+  {
+    "Id": "JS5",
+    "Name": "6-pc. Burger Steak w/ Jolly Spaghetti Family Pan",
+    "Price": 570.00,
+    "Image": "/Images/JollySpaghetti/JS5.png"
+  },
+  {
+    "Id": "JS6",
+    "Name": "8-pc. Burger Steak w/ Jolly Spaghetti Family Pan",
+    "Price": 650.00,
+    "Image": "/Images/JollySpaghetti/JS6.png"
+  },
+  {
+    "Id": "JS7",
+    "Name": "Jolly Spaghetti",
+    "Price": 60.00,
+    "Image": "/Images/JollySpaghetti/JS7.png"
+  },
+  {
+    "Id": "JS8",
+    "Name": "Jolly Spaghetti w/ Yumburger",
+    "Price": 122.00,
+    "Image": "/Images/JollySpaghetti/JS8.png"
+  },
+  {
+    "Id": "JS9",
+    "Name": "Jolly Spaghetti w/ Fries & Drink",
+    "Price": 133.00,
+    "Image": "/Images/JollySpaghetti/JS9.png"
+  },
+  {
+    "Id": "JS10",
+    "Name": "Jolly Spaghetti w/ Burger Steak",
+    "Price": 110.00,
+    "Image": "/Images/JollySpaghetti/JS10.png"
+  },
+  {
+    "Id": "JS11",
+    "Name": "1 - pc. Chickenjoy w/ Burger Steak & Half Jolly Spaghetti Super Meal",
+    "Price": 212.00,
+    "Image": "/Images/JollySpaghetti/JS11.png"
+  },
+  {
+    "Id": "JS12",
+    "Name": "1 - pc. Chickenjoy w/ Half Jolly Spaghetti & Shanghai Super Meal ",
+    "Price": 218.00,
+    "Image": "/Images/JollySpaghetti/JS12.png"
+  },
+  {
+    "Id": "JS13",
+    "Name": "Yumburger, Half Jolly Spaghetti & Reg. Fries Super Meal",
+    "Price": 137.00,
+    "Image": "/Images/JollySpaghetti/JS13.png"
+  }
+]

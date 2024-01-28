@@ -1,0 +1,74 @@
+[
+  {
+    "Id": "B1",
+    "Name": "Hot Fresh Brew",
+    "Price": 48.00,
+    "Image": "/Images/Beverages/B1.png"
+  },
+  {
+    "Id": "B2",
+    "Name": "Iced Latte",
+    "Price": 53.00,
+    "Image": "/Images/Beverages/B2.png"
+  },
+  {
+    "Id": "B3",
+    "Name": "Iced Sweet Black",
+    "Price": 53.00,
+    "Image": "/Images/Beverages/B3.png"
+  },
+  {
+    "Id": "B4",
+    "Name": "Iced Tea",
+    "Price": 64.00,
+    "Image": "/Images/Beverages/B4.png"
+  },
+  {
+    "Id": "B5",
+    "Name": "Coke",
+    "Price": 53.00,
+    "Image": "/Images/Beverages/B5.png"
+  },
+  {
+    "Id": "B6",
+    "Name": "Coke 1L Solo",
+    "Price": 91.00,
+    "Image": "/Images/Beverages/B6.png"
+  },
+  {
+    "Id": "B7",
+    "Name": "Coke Zero",
+    "Price": 53.00,
+    "Image": "/Images/Beverages/B7.png"
+  },
+  {
+    "Id": "B8",
+    "Name": "Sprite",
+    "Price": 53.00,
+    "Image": "/Images/Beverages/B8.png"
+  },
+  {
+    "Id": "B9",
+    "Name": "Royal",
+    "Price": 53.00,
+    "Image": "/Images/Beverages/B9.png"
+  },
+  {
+    "Id": "B10",
+    "Name": "Pineapple Juice",
+    "Price": 64.00,
+    "Image": "/Images/Beverages/B10.png"
+  },
+  {
+    "Id": "B11",
+    "Name": "Soda Float",
+    "Price": 57.00,
+    "Image": "/Images/Beverages/B11.png"
+  },
+  {
+    "Id": "B12",
+    "Name": "Hot Chocolate",
+    "Price": 51.00,
+    "Image": "/Images/Beverages/B12.png"
+  }
+]
